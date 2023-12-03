@@ -34,10 +34,9 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="CustomContainer.cpp" />
 		<Unit filename="CustomContainer.h" />
-		<Unit filename="LibraryManagementSystem.cpp" />
 		<Unit filename="LibraryManagementSystem.h" />
+		<Unit filename="LinkedList.h" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<lib_finder disable_auto="1" />

@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1698748255 source:e:\mygit\template_titans\template_titans\customcontainer.cpp
+
+1699300972 e:\mygit\template_titans\template_titans\customcontainer.h
+	<iostream>
+	"LinkedList.h"
+
+1698773047 source:e:\mygit\template_titans\template_titans\librarymanagementsystem.cpp
+
+1699301461 e:\mygit\template_titans\template_titans\librarymanagementsystem.h
+	<iostream>
+	<string>
+	"CustomContainer.h"
+
+1699201676 source:e:\mygit\template_titans\template_titans\main.cpp
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+	<windows.h>
+	"LibraryManagementSystem.h"
+
+1699301357 e:\mygit\template_titans\template_titans\linkedlist.h
+	<iostream>
+	<assert.h>
+
+1698780272 source:e:\mygit\template_titans\template_titans\node.cpp
+
